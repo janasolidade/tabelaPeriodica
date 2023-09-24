@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+}
+
+body{
+    font-size:20px;
+}
+
+.laranja{
+    background-color: rgb(246, 195, 150);
+}
+
+.laranjaEscuro{
+    background-color:rgba(235, 125, 29, 0.791);
+}
